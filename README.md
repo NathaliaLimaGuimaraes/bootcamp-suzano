@@ -17,3 +17,8 @@
 - Rooms: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
 - Matriculados: Saiba quem está participando da mesma jornada educacional que você.
 - Certificado: Baixe e compartilhe os certificados de todas as suas conquistas ao longo desse bootcamp.
+
+### Repositórios que recomendo
+  
+ - [Primeiros Passos Git x Github](https://github.com/digitalinnovationone/dio-lab-open-source) Projeto Open Source aplicado com Git para Github. 
+ - [Desafio Sistema Bancário](https://github.com/digitalinnovationone/trilha-python-dio) - Python aplicado em Sistema Financeiro.
